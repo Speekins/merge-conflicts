@@ -1,2 +1,2 @@
-# This is our merge-conflicts README
 Practicing merge conflicts
+This is a readme file.
